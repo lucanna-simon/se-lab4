@@ -1,0 +1,3 @@
+#hajo letrehozasa 1 torpedoval
+GT4500,0,0,1,0
+TORPEDO,SINGLE #elso tuzeles

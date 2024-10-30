@@ -1,0 +1,3 @@
+SUCCESS #hajo letrehozasa
+SUCCESS #elso tuzeles
+FAIL #már nincs második torpedo
