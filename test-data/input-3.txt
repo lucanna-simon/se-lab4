@@ -1,0 +1,4 @@
+#hajo letrehozasa 1 torpedoval
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
